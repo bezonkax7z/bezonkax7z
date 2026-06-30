@@ -26,13 +26,13 @@ Soy **bezonka** / **bezonka1** — developer enfocado en crear productos digital
 - Enfoque fuerte en **auth, seguridad, backend, Linux y hacking ético**.
 
 </td>
-<td width="42%">
+<td width="42%" align="center">
 
-<div align="center">
+<img src="https://flagcdn.com/w320/cu.png" width="260" alt="Bandera de Cuba" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonka1&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="100%" />
+<br />
 
-</div>
+<img src="https://img.shields.io/badge/Cuba-000000?style=for-the-badge&logoColor=white" />
 
 </td>
 </tr>
@@ -94,8 +94,27 @@ Soy **bezonka** / **bezonka1** — developer enfocado en crear productos digital
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonka1&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonka1&layout=compact&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" width="49%" />
+<table>
+<tr>
+<td align="left" width="100%">
+
+```bash
+bezonka@github:~$ ./activity.sh
+status        online
+focus         AI apps | Web systems | Ethical hacking
+linux_mode    Linux + Arch Linux
+security      OWASP | OSINT | Web Security | Hardening
+build_style   black & white | clean UI | fast backend
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Current_Focus-AI%20Apps-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Ethical%20Hacking-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI-Black%20%26%20White-000000?style=for-the-badge" />
 
 </div>
 
