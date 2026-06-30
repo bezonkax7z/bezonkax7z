@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Minimal.+Clean.+Powerful.;Building+AI+apps+and+premium+web+systems;Linux+%2B+Arch+Linux+%2B+Ethical+Hacking)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=bezonkax7z&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/bezonkax7z?style=for-the-badge&logo=github&color=000000&labelColor=ffffff&logoColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=bezonka1&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/bezonka1?style=for-the-badge&logo=github&color=000000&labelColor=ffffff&logoColor=000000" />
 <img src="https://img.shields.io/badge/STYLE-BLACK%20%26%20WHITE-000000?style=for-the-badge&labelColor=ffffff&color=000000" />
 
 </div>
@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digitales con estética limpia, rendimiento sólido y experiencias premium.
+Soy **bezonka** / **bezonka1** — developer enfocado en crear productos digitales con estética limpia, rendimiento sólido y experiencias premium.
 
 - Construyo **AI apps**, dashboards, automatizaciones y plataformas web.
 - Trabajo con **Next.js, React, TypeScript, Node.js y Supabase**.
@@ -30,7 +30,7 @@ Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bezonka1&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="100%" />
 
 </div>
 
@@ -94,8 +94,8 @@ Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonkax7z&layout=compact&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bezonka1&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonka1&layout=compact&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" width="49%" />
 
 </div>
 
@@ -105,7 +105,7 @@ Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digit
 
 <div align="center">
 
-<a href="https://github.com/bezonkax7z">
+<a href="https://github.com/bezonka1">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/Anthxkp">
