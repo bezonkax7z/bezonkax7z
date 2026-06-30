@@ -1,92 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:ffffff,100:000000&text=BEZONKA&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=AI%20Builder%20%E2%80%A2%20Full-stack%20Creator%20%E2%80%A2%20Security-minded%20Dev&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=000000&text=bezonka%40github%3A~%24%20whoami&fontColor=ffffff&fontSize=36&desc=AI%20Builder%20%7C%20Full-stack%20Dev%20%7C%20Ethical%20Hacking&descAlign=50&descAlignY=68&descSize=16&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Minimal.+Clean.+Powerful.;Building+AI+apps+and+premium+web+systems;Black+%26+White+Developer+Profile)](https://git.io/typing-svg)
+[![Terminal Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=bezonka%40linux%3A~%24+sudo+build+--secure;bezonka%40linux%3A~%24+nmap+--learn+--ethical;bezonka%40linux%3A~%24+deploy+clean+systems)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=bezonkax7z&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/bezonkax7z?style=for-the-badge&logo=github&color=000000&labelColor=ffffff&logoColor=000000" />
-<img src="https://img.shields.io/badge/STYLE-BLACK%20%26%20WHITE-000000?style=for-the-badge&labelColor=ffffff&color=000000" />
+<img src="https://img.shields.io/badge/TERMINAL-MODE-000000?style=for-the-badge&labelColor=ffffff&color=000000" />
+
+</div>
+
+```bash
+bezonka@github:~$ whoami
+bezonka / bezonkax7z
+
+bezonka@github:~$ cat ./profile.txt
+AI Builder
+Full-stack Developer
+Security-minded Creator
+Ethical Hacking Enthusiast
+
+bezonka@github:~$ cat ./mission.txt
+Building clean interfaces, fast apps, solid backends and secure systems.
+
+bezonka@github:~$ status
+online: true
+style: terminal linux
+focus: ai, web, automation, security, ethical hacking
+```
+
+---
+
+## bezonka@github:~$ ./about.sh
+
+```bash
+NAME="bezonka"
+ALIAS="bezonkax7z"
+ROLE="AI Builder | Full-stack Developer | Security Learner"
+OS="Linux mindset"
+EDITOR="VS Code"
+STYLE="minimal / black-white / terminal"
+
+CURRENTLY_BUILDING=(
+  "AI apps"
+  "secure dashboards"
+  "automation systems"
+  "premium web interfaces"
+  "ethical hacking labs"
+)
+```
+
+---
+
+## bezonka@github:~$ ./web_stack.sh
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,fastapi,github,git,vercel,supabase,postgres,docker,vscode&theme=dark" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%">
+## bezonka@github:~$ ./ethical_hacking_stack.sh
 
-## ◼ Sobre mí
-
-Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digitales con estética limpia, rendimiento sólido y experiencias premium.
-
-- ◻ Construyo **AI apps**, dashboards, automatizaciones y plataformas web.
-- ◼ Trabajo con **Next.js, React, TypeScript, Node.js y Supabase**.
-- ◻ Me gusta el diseño **minimalista**, rápido y con presencia visual.
-- ◼ Enfoque fuerte en **auth, seguridad, backend y sistemas robustos**.
-
-</td>
-<td width="42%">
+```bash
+security_tools=(
+  "Linux"
+  "Kali Linux"
+  "Bash"
+  "PowerShell"
+  "Python"
+  "Nmap"
+  "Wireshark"
+  "Burp Suite"
+  "Metasploit"
+  "OWASP Top 10"
+  "OSINT"
+  "Networking"
+  "Web Security"
+  "Secure Auth"
+)
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="100%" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Secure_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
 
 </div>
 
+---
+
+## bezonka@github:~$ ./projects.sh
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>AI Apps</h3>
+<p>Asistentes, agentes, dashboards inteligentes y automatizaciones.</p>
+</td>
+<td width="33%" align="center">
+<h3>Secure Systems</h3>
+<p>Auth fuerte, paneles admin, backend seguro y control de acceso.</p>
+</td>
+<td width="33%" align="center">
+<h3>Ethical Hacking</h3>
+<p>Labs, análisis web, hardening, networking y seguridad ofensiva autorizada.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## ◼ Tech Stack
+## bezonka@github:~$ ./github_stats.sh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,github,git,vercel,supabase,postgres,vscode&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=false&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonkax7z&layout=compact&hide_border=false&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" width="49%" />
 
 </div>
 
 ---
 
-## ◻ Lo que construyo
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>◼ AI Apps</h3>
-<p>Asistentes, plataformas inteligentes, automatizaciones y herramientas modernas.</p>
-</td>
-<td align="center" width="33%">
-<h3>◻ Secure Systems</h3>
-<p>Auth robusto, paneles admin, control de acceso y lógica backend segura.</p>
-</td>
-<td align="center" width="33%">
-<h3>◼ Premium UI</h3>
-<p>Interfaces limpias, rápidas, elegantes y con estilo blanco/negro.</p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## ◼ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bezonkax7z&theme=default&hide_border=false&background=ffffff&border=000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonkax7z&layout=compact&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" width="49%" />
-
-</div>
-
----
-
-## ◻ Redes sociales
+## bezonka@github:~$ ./socials.sh
 
 <div align="center">
 
@@ -108,10 +169,14 @@ Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digit
 
 ---
 
+```bash
+bezonka@github:~$ exit
+logout
+Connection to github.com closed.
+```
+
 <div align="center">
 
-<sub>◼ Built with focus, taste and clean code ◻</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:ffffff,100:000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=000000&text=terminal%20session%20closed&fontColor=ffffff&fontSize=18" width="100%" />
 
 </div>
