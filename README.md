@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:7c3aed,100:06b6d4&text=bezonka%20%7C%20bezonkax7z&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=AI%20Builder%20%E2%80%A2%20Full-stack%20Creator%20%E2%80%A2%20Security-minded%20Dev&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:ffffff,100:000000&text=BEZONKA&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=AI%20Builder%20%E2%80%A2%20Full-stack%20Creator%20%E2%80%A2%20Security-minded%20Dev&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Construyendo+apps+con+estilo+y+velocidad;AI+tools%2C+dashboards%2C+automation+and+web+systems;Clean+UI+%2B+solid+backend+%2B+security+first)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=900&lines=Minimal.+Clean.+Powerful.;Building+AI+apps+and+premium+web+systems;Black+%26+White+Developer+Profile)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=bezonkax7z&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/bezonkax7z?style=for-the-badge&logo=github&color=06b6d4&labelColor=111827" />
-<img src="https://img.shields.io/badge/focus-AI%20%2B%20Web%20%2B%20Security-22d3ee?style=for-the-badge&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=bezonkax7z&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/bezonkax7z?style=for-the-badge&logo=github&color=000000&labelColor=ffffff&logoColor=000000" />
+<img src="https://img.shields.io/badge/STYLE-BLACK%20%26%20WHITE-000000?style=for-the-badge&labelColor=ffffff&color=000000" />
 
 </div>
 
@@ -16,22 +16,21 @@
 <tr>
 <td width="58%">
 
-## 👋 Sobre mí
+## ◼ Sobre mí
 
-Soy **bezonka** — developer enfocado en crear productos digitales rápidos, visuales y útiles.
-Me gusta construir interfaces elegantes, automatizaciones inteligentes, backends sólidos y herramientas con estética premium.
+Soy **bezonka** / **bezonkax7z** — developer enfocado en crear productos digitales con estética limpia, rendimiento sólido y experiencias premium.
 
-- 🚀 Creando proyectos con **Next.js, React, TypeScript y AI**
-- 🛡️ Interés fuerte en **seguridad, auth, dashboards y sistemas anti-abuse**
-- 🎨 Obsesionado con UI limpia, dark mode y experiencias fluidas
-- ⚡ Siempre buscando optimizar rendimiento, flujo y diseño
+- ◻ Construyo **AI apps**, dashboards, automatizaciones y plataformas web.
+- ◼ Trabajo con **Next.js, React, TypeScript, Node.js y Supabase**.
+- ◻ Me gusta el diseño **minimalista**, rápido y con presencia visual.
+- ◼ Enfoque fuerte en **auth, seguridad, backend y sistemas robustos**.
 
 </td>
 <td width="42%">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bezonkax7z&show_icons=true&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" width="100%" />
 
 </div>
 
@@ -41,33 +40,33 @@ Me gusta construir interfaces elegantes, automatizaciones inteligentes, backends
 
 ---
 
-## 🧰 Tech Stack
+## ◼ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,github,git,vercel,supabase,postgres,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,github,git,vercel,supabase,postgres,vscode&theme=light" />
 
 </div>
 
 ---
 
-## ✨ Lo que construyo
+## ◻ Lo que construyo
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🤖 AI Apps</h3>
+<h3>◼ AI Apps</h3>
 <p>Asistentes, plataformas inteligentes, automatizaciones y herramientas modernas.</p>
 </td>
 <td align="center" width="33%">
-<h3>🛡️ Secure Systems</h3>
+<h3>◻ Secure Systems</h3>
 <p>Auth robusto, paneles admin, control de acceso y lógica backend segura.</p>
 </td>
 <td align="center" width="33%">
-<h3>🎨 Premium UI</h3>
-<p>Interfaces dark, minimalistas, rápidas y visualmente impactantes.</p>
+<h3>◼ Premium UI</h3>
+<p>Interfaces limpias, rápidas, elegantes y con estilo blanco/negro.</p>
 </td>
 </tr>
 </table>
@@ -76,31 +75,43 @@ Me gusta construir interfaces elegantes, automatizaciones inteligentes, backends
 
 ---
 
-## 📊 GitHub Activity
+## ◼ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bezonkax7z&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=7C3AED&fire=F97316&currStreakLabel=22D3EE" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonkax7z&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bezonkax7z&theme=default&hide_border=false&background=ffffff&border=000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezonkax7z&layout=compact&hide_border=false&theme=graywhite&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" width="49%" />
 
 </div>
 
 ---
 
-## 🌐 Contacto
+## ◻ Redes sociales
 
 <div align="center">
 
 <a href="https://github.com/bezonkax7z">
-  <img src="https://img.shields.io/badge/GitHub-bezonkax7z-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-bezonkax7z-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/Anthxkp">
+  <img src="https://img.shields.io/badge/Instagram-Anthxkp-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@bezonka1">
+  <img src="https://img.shields.io/badge/TikTok-bezonka1-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@bezonka">
+  <img src="https://img.shields.io/badge/YouTube-bezonka-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Discord-.bezonka.-000000?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
-<br />
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" width="100%" />
+<sub>◼ Built with focus, taste and clean code ◻</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:ffffff,100:000000" width="100%" />
 
 </div>
